@@ -1,0 +1,57 @@
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\bin\Debug\concept.exe
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\bin\Debug\concept.exe.config
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\concept.frm_admin_login.resources
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\concept.StudentForm.resources
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\concept.FRM_MAIN.resources
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\concept.Properties.Resources.resources
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\concept.QuestionsPanel.resources
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\ApptitudeTestSystem.csproj.GenerateResource.Cache
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\concept.exe
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\concept.pdb
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\bin\Debug\concept.pdb
+C:\Users\Sabir\Documents\Visual Studio 2013\Projects\temp coversion\concept\concept\obj\Debug\ApptitudeTestSystem.csprojResolveAssemblyReference.cache
+C:\Users\alina.anjum\Downloads\concept\concept\concept\bin\Debug\concept.exe.config
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\concept.exe
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\concept.pdb
+C:\Users\alina.anjum\Downloads\concept\concept\concept\bin\Debug\concept.exe
+C:\Users\alina.anjum\Downloads\concept\concept\concept\bin\Debug\concept.pdb
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\ApptitudeTestSystem.csprojResolveAssemblyReference.cache
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\concept.frm_admin_login.resources
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\concept.StudentForm.resources
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\concept.FRM_MAIN.resources
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\concept.Properties.Resources.resources
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\concept.QuestionsPanel.resources
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\ApptitudeTestSystem.csproj.GenerateResource.cache
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\ApptitudeTestSystem.csproj.CoreCompileInputs.cache
+C:\Users\alina.anjum\Downloads\concept\concept\concept\obj\Debug\concept.frmTest.resources
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\bin\Debug\concept.exe.config
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.exe
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.pdb
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\bin\Debug\concept.exe
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\bin\Debug\concept.pdb
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\ApptitudeTestSystem.csprojResolveAssemblyReference.cache
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.frmTest.resources
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.frm_admin_login.resources
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.StudentForm.resources
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.FRM_MAIN.resources
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.Properties.Resources.resources
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.QuestionsPanel.resources
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\ApptitudeTestSystem.csproj.GenerateResource.Cache
+C:\Users\Sabir\Desktop\alina\concept\concept\concept\obj\Debug\concept.frmResults.resources
+D:\alina\concept\concept\concept\bin\Debug\concept.exe.config
+D:\alina\concept\concept\concept\obj\Debug\concept.exe
+D:\alina\concept\concept\concept\obj\Debug\concept.pdb
+D:\alina\concept\concept\concept\bin\Debug\concept.exe
+D:\alina\concept\concept\concept\bin\Debug\concept.pdb
+D:\alina\concept\concept\concept\obj\Debug\ApptitudeTestSystem.csprojResolveAssemblyReference.cache
+D:\alina\concept\concept\concept\obj\Debug\concept.frmResults.resources
+D:\alina\concept\concept\concept\obj\Debug\concept.frmTest.resources
+D:\alina\concept\concept\concept\obj\Debug\concept.frm_admin_login.resources
+D:\alina\concept\concept\concept\obj\Debug\concept.StudentForm.resources
+D:\alina\concept\concept\concept\obj\Debug\concept.FRM_MAIN.resources
+D:\alina\concept\concept\concept\obj\Debug\concept.Properties.Resources.resources
+D:\alina\concept\concept\concept\obj\Debug\concept.QuestionsPanel.resources
+D:\alina\concept\concept\concept\obj\Debug\ApptitudeTestSystem.csproj.GenerateResource.Cache
+D:\project\concept\concept\concept\bin\Debug\concept.exe.config
+D:\project\concept\concept\concept\obj\Debug\concept.exe
+D:\project\concept\concept\concept\obj\Debug\concept.pdb
